@@ -1,12 +1,13 @@
 VnStat.js
 =========
 
-This is fork of VnStat.js is a simple Web interface for the VnStat software - https://github.com/nicolargo/vnstat.js
-It is a HTTP node based on the Node.js framework. No Web server is needed, every think is included in the node.
+This is functional fork of VnStat.js (https://github.com/nicolargo/vnstat.js) - a simple Web interface for the VnStat utility.
+
+
 
 Installation
 ------------
-1) Install the VnStat and VnStati software.
+1) Install the VnStat and VnStati utility.
 
 Exemple on Ubuntu 14.04:
 
