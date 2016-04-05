@@ -9,7 +9,7 @@ Installation
 ------------
 1) Install the VnStat and VnStati utility.
 
-Exemple on Ubuntu 14.04:
+Example on Ubuntu 14.04:
 
 	$ sudo apt-get install vnstat vnstati
 
