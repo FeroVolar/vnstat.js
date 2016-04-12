@@ -11,25 +11,25 @@ Installation
 
 Example on Ubuntu 14.04:
 
-	$ sudo apt-get install vnstat vnstati
+	# sudo apt-get install vnstat vnstati
 
 2) Install the Node.js 
 
-	$ curl -sL https://deb.nodesource.com/setup | sudo bash -
-	$ sudo apt-get install -y nodejs
+	# curl -sL https://deb.nodesource.com/setup | sudo bash -
+	# sudo apt-get install -y nodejs
 
 3) Download the VnStat.js node
 
-	$ cd ~
-	$ git clone git://github.com/FeroVolar/vnstat.js.git
+	# cd ~
+	# git clone git://github.com/FeroVolar/vnstat.js.git
 
 Run the VnStat.js node
 ----------------------
 
 Run the node:
 
-	$ cd ~/vnstat.js
-	$ node ./vnstat.js
+	# cd ~/vnstat.js
+	# sudo node ./vnstat.js
 
 On the console, the URL of the VnStat.js is displayed.
 Use a HTML5 compatible Web browser.
